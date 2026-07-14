@@ -1,5 +1,4 @@
 # vCenter-Custom-Role-Export-and-Import-Toolkit
-# vCenter Custom Role Export and Import Toolkit
 
 This toolkit exports custom role definitions from one vCenter Server and imports selected role definitions into either a single vCenter or multiple vCenters.
 
